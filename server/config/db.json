@@ -1,0 +1,9 @@
+{
+  "development": {
+    "host": "localhost",
+    "username": "kidscafe",
+    "password": "kidscafe",
+    "database": "kidscafe",
+    "dialect": "mariadb"
+  }
+}
